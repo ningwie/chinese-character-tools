@@ -1,0 +1,1 @@
+Most useful, albeit still not pretty: `count/count_chinese_chars.py` will tell you how many Chinese characters in total (tokens) and how many unique characters (types) your text document contains. Makes answering the question "So, how many characters do you know?" much easier.
